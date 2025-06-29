@@ -1,10 +1,10 @@
-# RouteReel: Smart Travel Planner App
+# Travina: Smart Travel Planner App
 
 ---
 
 ## 🔐 Overview
 
-**RouteReel** is a travel itinerary app focused on trip optimization around personal connections, smart routes, and budget management. The idea: someone is visiting a friend in another city, they input the friend's address, and the app plans everything smartly around that point (lodging, routes, attractions, food, etc).
+**Travina** is a travel itinerary app focused on trip optimization around personal connections, smart routes, and budget management. The idea: someone is visiting a friend in another city, they input the friend's address, and the app plans everything smartly around that point (lodging, routes, attractions, food, etc).
 
 Primary platform is **mobile app** (React Native + Tailwind). Secondary platform is **marketing/landing website**.
 
@@ -96,7 +96,7 @@ Primary platform is **mobile app** (React Native + Tailwind). Secondary platform
    * 3-step walkthrough
    * Include app screenshots or mockups
 
-4. **Why RouteReel?**
+4. **Why Travina?**
 
    * Speed, intelligence, connections
    * Quote/testimonial cards
